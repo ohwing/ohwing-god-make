@@ -1,0 +1,42 @@
+form{
+	text-align: center;
+}
+.input1{
+	width: 500px;
+	height: 50px;
+	font-size: 15px;
+	border-radius: 10px 10px 10px 10px;
+	border-color: blue;
+	text-align: center;
+}
+.input2{
+	width: 500px;
+	height: 50px;
+	font-size: 24px;
+	border-radius: 10px 10px 10px 10px;
+	background-color: blue;
+	color:white;
+	font-weight: bold;
+}
+
+#container {
+	width: 960px;
+	margin: 0 auto;
+}
+img{
+	width: 100%;
+}
+
+.blue{
+	color:blue;
+}
+.red{
+	color: red;
+}
+.green{
+	color:green;
+}
+.card-text{
+	text-align: center;
+	font-weight: 900;
+}
